@@ -2,6 +2,8 @@
 
 A simple and efficient clone of Google Keep built using React and Vite. This project replicates the basic functionality of Google Keep, allowing users to create, edit, and delete notes.
 
+Site is live at https://reneryu5.github.io/Google-keep-clone/
+
 Features
 - Create new notes with titles and content
 - Edit existing notes
