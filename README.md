@@ -15,5 +15,5 @@ Features
 
 To get a local copy up and running, follow these simple steps:
 
-Clone the repository and type : npm install to install the dependencies
-Start the development server : npm run dev
+<p> Clone the repository and type : npm install to install the dependencies </p>
+<p> Start the development server : npm run dev </p>
